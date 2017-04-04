@@ -11,6 +11,6 @@ Every time you open a terminal or a new tab, it gives you an unwanted free advic
 ## Currently supports Macs and Linux.
 
 ## To unintsall this
-<code> Go to your ~/.bash_profile</code>
-<code> Remove the line cowsay -f ..... </code>
+<code> Go to your ~/.bash_profile</code><br>
+<code> Remove the line cowsay -f ..... </code><br>
 <code> And you are good to go! </code>
